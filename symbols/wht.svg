@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Top bar -->
+  <line x1="16" y1="18" x2="48" y2="18"/>
+  <!-- Downward triangle -->
+  <polygon points="22,18 42,18 32,36" fill="currentColor"/>
+  <!-- Label WHT -->
+  <text x="32" y="52" font-size="11" font-family="Arial, sans-serif" font-weight="bold" fill="currentColor" stroke="none" text-anchor="middle">WHT</text>
+</svg>

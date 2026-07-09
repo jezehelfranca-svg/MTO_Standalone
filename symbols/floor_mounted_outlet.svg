@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Outer circle -->
+  <circle cx="32" cy="32" r="22"/>
+  <!-- Triangle in bottom half -->
+  <polygon points="10,32 54,32 32,54" fill="currentColor"/>
+</svg>
