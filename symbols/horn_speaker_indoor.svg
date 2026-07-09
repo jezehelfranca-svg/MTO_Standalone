@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Megaphone solid fill -->
+  <path d="M12,24 L22,24 L36,12 L36,52 L22,40 L12,40 Z" fill="currentColor"/>
+  <!-- Sound waves -->
+  <path d="M42,20 A16,16 0 0,1 42,44" stroke="currentColor" stroke-width="3"/>
+  <path d="M48,14 A24,24 0 0,1 48,50" stroke="currentColor" stroke-width="3"/>
+</svg>

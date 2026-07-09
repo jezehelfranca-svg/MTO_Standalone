@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Downward triangle -->
+  <polygon points="16,16 48,16 32,48" fill="currentColor"/>
+  <!-- Label IO -->
+  <text x="32" y="60" font-size="10" font-family="Arial, sans-serif" font-weight="bold" fill="currentColor" stroke="none" text-anchor="middle">IO</text>
+</svg>
